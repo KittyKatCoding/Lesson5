@@ -1,7 +1,7 @@
 ### https://github.com/KittyKatCoding/Lesson5
 ### $Lessonㅤ5:ㅤCreateㅤYourㅤNetworkㅤDocs$
 ### $Assignment:ㅤHomeㅤNetworkㅤDocumentation$
-### $Evan⠀W⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀July⠀27,⠀2026$
+### $Evan⠀W⠀⠀⠀⠀⠀⠀July⠀27,⠀2026$
 ### ⠀⠀⠀
 # Evan W's Home Network Documentation
 ### ⠀⠀⠀
