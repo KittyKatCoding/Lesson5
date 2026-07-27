@@ -16,7 +16,8 @@ The default gateway is 192.168.0.1 and the subnet is 255.255.255.0
 The ip addresses are assigned by the TP link AXE5400 Tr-Band Wi-Fi 6E Router DHCP Server
 The Brother Printer has a reserved IP address of 192.168.0.113
 The DHCP Pool is 192.168.0.2 - 192.168.0.253
-Address lease time is 120 minutes
+Address lease time is 120 minutes.
+
 This is because I do not want IPv4 address exhaustion for if I have a lot of people connected for a party.
 ### IP Addresses of Connected Client Devices
 | Device Info | Interface |
