@@ -1,3 +1,5 @@
+Home Network Documentation
+
 ![Image 1](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/1.png)
 ![Image 2](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/2.png)
 ![Image 3](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/3.png)
