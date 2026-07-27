@@ -1,5 +1,5 @@
 ## https://github.com/KittyKatCoding/Lesson5
-# $Lesson⠀5⠀Create⠀Your⠀Network⠀Docs$
+# $Lesson⠀5⠀Create⠀Your⠀NetworkㅤDocs$
 # $Assignment⠀Home⠀Network⠀Documentation$
 # $Evan⠀W$
 
