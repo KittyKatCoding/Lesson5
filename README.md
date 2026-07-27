@@ -3,20 +3,9 @@
 # Physical Network Topology
 ![Physical Topology](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/refs/heads/main/000%20Physical%20Topology.webp).
 # Logical Network Topology
-![Logical Topology](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/refs/heads/main/000%20Logical%20Topology.webp).
-![Image 1](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/1.png)
-![Image 2](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/2.png)
-![Image 3](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/3.png)
-![Image 4](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/refs/heads/main/4%20fixed.png)
-![Image 5](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/5.png)
-![Image 6](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/6.png)
-![Image 7](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/7.png)
-![Image 8](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/8.png)
-![Image 9](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/9.png)
-![Image 10](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/10.png)
-![Image 11](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/11.png)
+
+
+# IP Addressing And Subnet Information
+The default gateway is 192.168.0.1 and the subnet is 255.255.255.0
+
 ![Image 12](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/12.png)
-![Image 13](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/13.png)
-![Image 14](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/14.png)
-![Image 15](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/15.png)
-![Image 16](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/16.png)
