@@ -12,7 +12,7 @@
 # IP Addressing And Subnet Information
 The default gateway is 192.168.0.1 and the subnet is 255.255.255.0
 The ip addresses are assigned by the AXE5400 Tr-Band Wi-Fi 6E Router DHCP Server
-The Brother Printer has a reserved ip address of 192.168.0.113
+The Brother Printer has a reserved IP address of 192.168.0.113
 ### IP Addresses of Connected Client Devices
 | Device Info | Interface |
 | :--- | :---: |
