@@ -14,6 +14,9 @@
 The default gateway is 192.168.0.1 and the subnet is 255.255.255.0
 The ip addresses are assigned by the AXE5400 Tr-Band Wi-Fi 6E Router DHCP Server
 The Brother Printer has a reserved IP address of 192.168.0.113
+The DHCP Pool is 192.168.0.2 - 192.168.0.253
+Address lease time is 120 minutes
+This is because I do not want IPv4 address exhaustion for if I have a lot of people connected for a party.
 ### IP Addresses of Connected Client Devices
 | Device Info | Interface |
 | :--- | :---: |
@@ -56,4 +59,10 @@ My internet connection from Valley FIber is a Dynamic IP address.  Valler Viber'
 
 ![DHCP From Valley Fiber](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/refs/heads/main/6767.webp)
 
-The
+# Login Credentials
+TO connect to the Wireless 2.4 GHz / 5Ghz network the password security uses the WPA2-PSK[AES] four-way handshake.  The Wifi 6 password uses WPA3-Personal Simultaneous Authentication of Equals which prevents offline dictionary attacks that WPA2 is vulnerable to.  I use WPA2 on the 2.4/5GHz network because i have old devices that can not connect to a WPA3 secured network.
+
+The administrative local system password to log into the dashboard is stored in the router's flash memory as a cryptographically salted hash.
+
+![Image 3](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/3.png)
+
