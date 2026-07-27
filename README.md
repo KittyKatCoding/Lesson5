@@ -30,7 +30,7 @@ The Brother Printer has a reserved ip address of 192.168.0.113
 | **iPhone**<br>192.168.0.243 | Wi-Fi |
 
 ![Printer](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/refs/heads/main/67.webp)
-# The printer did not show up on the Wi-Fi Router's Connected CLients page, but i can ping it and print to it.
+### The printer did not show up on the Wi-Fi Router's Connected Clients page, but i can ping it and print to it.
 ![Image 4](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/4.png)
 ![Image 12](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/12.png)
 
