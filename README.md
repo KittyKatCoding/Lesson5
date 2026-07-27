@@ -3,7 +3,7 @@ Home Network Documentation
 ![Image 1](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/1.png)
 ![Image 2](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/2.png)
 ![Image 3](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/3.png)
-![Image 4](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/4%20fixed.png)
+![Image 4](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/refs/heads/main/4%20fixed.png)
 ![Image 5](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/5.png)
 ![Image 6](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/6.png)
 ![Image 7](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/7.png)
