@@ -6,6 +6,12 @@
 ⠀
 ⠀
 ⠀
+⠀
+⠀
+⠀
+⠀
+⠀
+⠀
 # Physical Network Topology
 ![Physical Topology](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/refs/heads/main/000%20Physical%20Topology.webp)
 # Logical Network Topology
