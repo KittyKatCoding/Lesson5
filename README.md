@@ -15,16 +15,16 @@ The Brother Printer has a reserved ip address of 192.168.0.113
 | Device Info | Interface |
 | :--- | :---: |
 | **Agnes-PC**<br>192.168.0.53 | Wired |
-| **EvanLaptop**<br>192.168.0.162 | 6G Wi_Fi |
-| **HS103 Kasa Smart Plug**<br>192.168.0.108 | 2.4G |
-| **HS103 Kasa Smart Plug**<br>192.168.0.219 | 2.4G |
-| **HS103 Kasa Smart Plug**<br>192.168.0.18 | 2.4G |
-| **HS103 Kasa Smart PLug**<br>192.168.0.161 | 2.4G |
-| **Pixel-3a**<br>192.168.0. | 6G |
-| **Pixel-8**<br>192.168.0.237 | 2.4G |
-| **Pixel-6a**<br>192.168.0.124 | 6G |
-| **iPhone**<br>192.168.0.187 | 2.4G |
-| **iPhone**<br>192.168.0.209 | 6G |
+| **EvanLaptop**<br>192.168.0.162 | Wi-Fi |
+| **HS103 Kasa Smart Plug**<br>192.168.0.108 | Wi-Fi |
+| **HS103 Kasa Smart Plug**<br>192.168.0.219 | Wi-Fi |
+| **HS103 Kasa Smart Plug**<br>192.168.0.18 | Wi-Fi |
+| **HS103 Kasa Smart PLug**<br>192.168.0.161 | Wi-Fi |
+| **Pixel-3a**<br>192.168.0.73 | Wi-Fi |
+| **Pixel-8**<br>192.168.0.87 | Wi-Fi |
+| **Pixel-9a**<br>192.168.0.124 | Wi-Fi |
+| **iPhone**<br>192.168.0.56 | Wi-Fi |
+| **iPhone**<br>192.168.0.243 | Wi-Fi |
 
 ![Image 4](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/4.png)
 ![Image 12](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/12.png)
