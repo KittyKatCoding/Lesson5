@@ -1,8 +1,8 @@
 ## Home Network Documentation
 
-### Physical Network Topology
+# Physical Network Topology
 ![Physical Topology](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/refs/heads/main/000%20Physical%20Topology.webp).
-### Logical Network Topology
+# Logical Network Topology
 ![Logical Topology](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/refs/heads/main/000%20Logical%20Topology.webp).
 ![Image 1](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/1.png)
 ![Image 2](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/2.png)
