@@ -40,3 +40,8 @@ The Brother Printer has a reserved IP address of 192.168.0.113
 | :--- | :--- | :--- |
 | MikroTik | Fiber-to-Copper Converter | SFP to Ethernet conversion |
 | TP-Link | AXE5400 Tri-Band Wi-Fi 6E Router | Home Wifi Router |
+
+# Revision History
+| Version | Date | Amendment | Author |
+| :--- | :--- | :--- | :--- |
+| 1.0 | July 27, 2026 | Initial release | Evan W |
