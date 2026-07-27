@@ -14,6 +14,7 @@ The Brother Printer has a reserved ip address of 192.168.0.113
 ### IP Addresses of Connected Client Devices
 | Device Info | Interface |
 | :--- | :---: |
+| **BRNxxxxxxxxxxxx**<br>192.168.0.53 | Wired |
 | **Agnes-PC**<br>192.168.0.53 | Wired |
 | **EvanLaptop**<br>192.168.0.162 | Wi-Fi |
 | **HS103 Kasa Smart Plug**<br>192.168.0.108 | Wi-Fi |
