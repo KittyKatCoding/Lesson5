@@ -1,6 +1,6 @@
 ## https://github.com/KittyKatCoding/Lesson5
-# $Lesson⠀5⠀Create⠀Your⠀NetworkㅤDocs$
-# $Assignment⠀Home⠀Network⠀Documentation$
+# $Lessonㅤ5:ㅤCreateㅤYourㅤNetworkㅤDocs$
+# $Assignment:ㅤHomeㅤNetworkㅤDocumentation$
 # $Evan⠀W$
 
 # Physical Network Topology
