@@ -58,7 +58,7 @@ My internet connection from Valley FIber is a Dynamic IP address.  Valler Viber'
 ![DHCP From Valley Fiber](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/refs/heads/main/6767.webp)
 
 # Login Credentials
-To connect to the Wireless 2.4 GHz / 5Ghz network the password security uses the WPA2-PSK[AES] four-way handshake.  The Wifi 6 password uses WPA3-Personal Simultaneous Authentication of Equals which prevents offline dictionary attacks that WPA2 is vulnerable to.  I use WPA2 on the 2.4/5GHz network because i have old devices that can not connect to a WPA3 secured network.
+To connect to the Wireless 2.4 GHz / 5Ghz network the password security uses the WPA2-PSK[AES] four-way handshake.  The Wifi 6 password uses WPA3-Personal Simultaneous Authentication of Equals which prevents offline dictionary attacks that WPA2 is vulnerable to.  I use WPA2 on the 2.4/5GHz network because I have old devices that can not connect to a WPA3 secured network.
 
 The administrative local system password to log into the dashboard is stored in the router's flash memory as a cryptographically salted hash.
 
