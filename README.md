@@ -34,7 +34,9 @@ The Brother Printer has a reserved IP address of 192.168.0.113
 ### The printer did not show up on the Wi-Fi Router's Connected Clients page, but i can ping it and print to it.
 ![Image 4](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/4.png)
 ![Image 12](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/12.png)
-
+### Access Control List
+The Brother printer is denied access to the internet, it only is allowed access to the local internet.  This is to stop the printer from getting updates.  The printer has generic toner and may reject the toner if the firmware is updated.
+![Image 5](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/5.png)
 # Network Device Inventory
 
 | Manufacturer | Device Name | Function |
@@ -53,3 +55,5 @@ The Brother Printer has a reserved IP address of 192.168.0.113
 My internet connection from Valley FIber is a Dynamic IP address.  Valler Viber's DHCP server has a lease time of 1200 seconds, which is 20 minutes.  Every 10 minutes the router requests to extend the IP Lease
 
 ![DHCP From Valley Fiber](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/refs/heads/main/6767.webp)
+
+The
