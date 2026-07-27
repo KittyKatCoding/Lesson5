@@ -1,6 +1,6 @@
 ## https://github.com/KittyKatCoding/Lesson5
-# Lessonㅤ5:ㅤCreateㅤYourㅤNetworkㅤDocs
-# Assignment:ㅤHomeㅤNetworkㅤDocumentation
+# $Lessonㅤ5:ㅤCreateㅤYourㅤNetworkㅤDocs$
+# $Assignment:ㅤHomeㅤNetworkㅤDocumentation$
 # $Evan⠀W$
 ### ⠀⠀⠀
 ### ⠀⠀
