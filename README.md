@@ -50,3 +50,5 @@ The Brother Printer has a reserved IP address of 192.168.0.113
 # I do not have any servers, the only server is my Wi-Fi router's DHCP server for assigning ip addresses.
 ![Image 10](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/10.png)
 My internet connection from Valley FIber is a Dynamic IP address.  Valler Viber's DHCP server has a lease time of 1200 seconds, which is 20 minutes.  Every 10 minutes the router requests to extend the IP Lease
+
+![DHCP From Valley Fiber](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/refs/heads/main/6767.webp)
