@@ -6,13 +6,14 @@
 # Evan W's Home Network Documentation
 ### ⠀⠀⠀
 # Physical Network Topology
+My home network connection comes frrom a Valley Fiber demarcation box on the back of my house.  An optical SFP Cable from the box goes into my basement in my laundry room and is connected to a Mikrotik Fiber-to-Copper Converter mounted on a floor joist.  The Cat 5e Cable is connected to the mixrotic converter all the way upstairs to the living room on top of a display cabinet.  The fiber-to-copper converter is powered by the Power over Ethernet (PoE) injector on top of the display cabinet.  The same cable provides the power and the data.  Then it is connected to the WAN port on my TP link AXE5400 Tr-Band Wi-Fi 6E Router.  The LAN2 port on the router is connected to my Brother MFC-L2740DW printer by ethernet cable and the LAN4 port is connected to Agnes-PC windows pc by Ethernet cable.  All other devices are connected by Wi-Fi.  That includes my laptop, phones, and smart plugs.
 ![Physical Topology](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/refs/heads/main/000%20Physical%20Topology.webp)
 # Logical Network Topology
 ![Physical Topology](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/refs/heads/main/000%20Logical%20Topology.webp)
 
 # IP Addressing And Subnet Information
 The default gateway is 192.168.0.1 and the subnet is 255.255.255.0
-The ip addresses are assigned by the AXE5400 Tr-Band Wi-Fi 6E Router DHCP Server
+The ip addresses are assigned by the TP link AXE5400 Tr-Band Wi-Fi 6E Router DHCP Server
 The Brother Printer has a reserved IP address of 192.168.0.113
 The DHCP Pool is 192.168.0.2 - 192.168.0.253
 Address lease time is 120 minutes
@@ -40,17 +41,13 @@ This is because I do not want IPv4 address exhaustion for if I have a lot of peo
 ### Access Control List
 The Brother printer is denied access to the internet, it only is allowed access to the local internet.  This is to stop the printer from getting updates.  The printer has generic toner and may reject the toner if the firmware is updated.
 ![Image 5](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/5.png)
+
 # Network Device Inventory
 
 | Manufacturer | Device Name | Function |
 | :--- | :--- | :--- |
 | MikroTik | Fiber-to-Copper Converter | SFP to Ethernet conversion |
 | TP-Link | AXE5400 Tri-Band Wi-Fi 6E Router | Home Wifi Router |
-
-# Revision History
-| Version | Date | Amendment | Author |
-| :--- | :--- | :--- | :--- |
-| 1.0 | July 27, 2026 | Initial release | Evan W |
 
 # I do not have any servers, the only server is my Wi-Fi router's DHCP server for assigning ip addresses.
 # The brother printer has a built in Web Server for configurations and a print server for printing.
@@ -65,4 +62,9 @@ TO connect to the Wireless 2.4 GHz / 5Ghz network the password security uses the
 The administrative local system password to log into the dashboard is stored in the router's flash memory as a cryptographically salted hash.
 
 ![Image 3](https://raw.githubusercontent.com/KittyKatCoding/Lesson5/main/3.png)
+
+# Revision History
+| Version | Date | Amendment | Author |
+| :--- | :--- | :--- | :--- |
+| 1.0 | July 27, 2026 | Initial release | Evan W |
 
